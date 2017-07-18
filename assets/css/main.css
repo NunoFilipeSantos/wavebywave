@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: rgba(0, 0, 0, 0.25);
 			color: #c7ebe8;
 		}
 
@@ -2674,7 +2674,7 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
